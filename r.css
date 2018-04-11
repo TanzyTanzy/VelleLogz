@@ -1,0 +1,42 @@
+body,html{
+    height: 100%;
+    width: 100%;
+}
+.container-fluid
+{
+    width:100%;
+    margin:0px;
+    padding-top: 70px;
+    padding-right: 30px;
+    padding-left: 30px;
+    padding-bottom: 70px
+}
+.na
+{
+background-color: rgb(2, 0, 128);
+font-family:Comic sans-serif ;
+text-align: center;
+color: white;
+font-size: 4vw;
+width: 100%;
+padding: 20px;
+margin:0px;
+}
+img{
+    display:inline-block;
+    float:left;
+    
+}
+.navbar
+{
+    margin-top: 90px;
+    margin-bottom: 1px;
+
+}
+.con1
+{
+    background-image: url(bg.jpeg);
+    width:100%;
+    height: 100%;
+    background-size: auto;
+}
